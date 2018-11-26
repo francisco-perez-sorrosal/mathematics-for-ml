@@ -24,6 +24,6 @@ Please have a brief look at the [Wikipedia article](https://en.wikipedia.org/wik
 
 #### Week 4 (Orthogonal Complements)
 
-[Orthogonal complement](https://en.wikipedia.org/wiki/Orthogonal_complement)
-[Orthogonal decomposition](http://mathworld.wolfram.com/OrthogonalDecomposition.html)
-[Lagrange multipliers](https://en.wikipedia.org/wiki/Lagrange_multiplier)
+1. [Orthogonal complement](https://en.wikipedia.org/wiki/Orthogonal_complement)
+1. [Orthogonal decomposition](http://mathworld.wolfram.com/OrthogonalDecomposition.html)
+1. [Lagrange multipliers](https://en.wikipedia.org/wiki/Lagrange_multiplier)
